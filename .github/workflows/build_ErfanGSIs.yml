@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlsvr04.asus.com.cn/pub/ASUS/ZenFone/ZS620KL/UL-Z01R-WW-90.11.162.111-user.zip
-  ROM_NAME: ZenUI
+  ROM_URL: https://us-dl.mokeedev.com/firmware/TUsxMDAuMC1kaXBwZXItMjAyMDA2MTAwNDAzLU5JR0hUTFkuemlwfGZpcm13YXJlfDE1OTE4MDc5NjA/MK100.0-dipper-202006100403-NIGHTLY.zip
+  ROM_NAME: MokeeOS
   TZ: Asia/Shanghai
 
 jobs:
