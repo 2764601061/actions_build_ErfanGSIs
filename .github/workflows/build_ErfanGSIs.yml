@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://us-dl.mokeedev.com/firmware/TUsxMDAuMC1yYXBoYWVsLTIwMjAwNjA4MTIwNy1OSUdIVExZLnppcHxmaXJtd2FyZXwxNTkxNzMzNjA2/MK100.0-raphael-202006081207-NIGHTLY.zip
-  ROM_NAME:MokeeOS
+  ROM_NAME: MokeeOS
   TZ: Asia/Shanghai
 
 jobs:
