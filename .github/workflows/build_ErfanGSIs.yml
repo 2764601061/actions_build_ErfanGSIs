@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://hugeota.d.miui.com/20.6.10/miui_LAVENDER_20.6.10_85ce6f42a9_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: http://111.229.163.148/show/exTHmUI%EF%BC%88%E9%A2%84%E8%A7%88%E7%89%88%EF%BC%89/%E5%B0%8F%E7%B1%B3/%E5%B0%8F%E7%B1%B36X/exthm-10.0-20200625-UNOFFICIAL-SNAPSHOT-wayne.zip
+  ROM_NAME: exTHmUI
   TZ: Asia/Shanghai
 
 jobs:
