@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://downloads.oppo.com.s3.amazonaws.com/firmware/CPH1831_P/CPH1831EX_11_OTA_1320_all_VBccG7HONJs6.ozip
-  ROM_NAME: ColorOS
+  ROM_URL: https://nchc.dl.sourceforge.net/project/arrow-os/arrow-10.0/violet/Arrow-v10.0-violet-OFFICIAL-20200713-GAPPS.zip
+  ROM_NAME: AroowOS
   TZ: Asia/Shanghai
 
 jobs:
