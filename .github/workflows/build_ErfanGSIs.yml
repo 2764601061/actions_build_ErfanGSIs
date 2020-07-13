@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1260_all_dCLbvXiAZleZ.ozip
+  ROM_URL: http://downloads.oppo.com.s3.amazonaws.com/firmware/CPH1831_P/CPH1831EX_11_OTA_1320_all_VBccG7HONJs6.ozip
   ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
