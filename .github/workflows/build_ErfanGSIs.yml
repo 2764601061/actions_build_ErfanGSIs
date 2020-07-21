@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nchc.dl.sourceforge.net/project/arrow-os/arrow-10.0/violet/Arrow-v10.0-violet-OFFICIAL-20200713-GAPPS.zip
-  ROM_NAME: AroowOS
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus6Oxygen_22_OTA_045_all_2004142201_bdd6fdc6b6b1477f.zip
+  ROM_NAME: OxygenOS 
   TZ: Asia/Shanghai
 
 jobs:
