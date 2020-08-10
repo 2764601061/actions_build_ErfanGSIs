@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus6Oxygen_22_OTA_045_all_2004142201_bdd6fdc6b6b1477f.zip
-  ROM_NAME: OxygenOS 
+  ROM_URL: https://us-dl.mokeedev.com/firmware/TUsxMDAuMC1mYWppdGEtMjAyMDA4MTAwNTU0LU5JR0hUTFkuemlwfGZpcm13YXJlfDE1OTcwNjgyNDA/MK100.0-fajita-202008100554-NIGHTLY.zip
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
